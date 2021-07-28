@@ -1,10 +1,10 @@
 #Livro de Receitas
 
-Ol·, esse È meu primeiro arquivo marketdown aberto no WordPad
-A ediÁ„o n„o funciona
-N„o consegui fazer de Strogonoff um arquivo do mesmo tipo que esse.
-PorÈm pelo terninal Git Bash foi possÌvel criar esse que È o Ìndice.
+Ol√°, esse √© meu primeiro arquivo markdown aberto no WordPad
+A edi√ß√£o n√£o funciona
+N√£o consegui fazer de Strogonoff um arquivo do mesmo tipo que esse.
+Por√©m pelo terninal Git Bash foi poss√≠vel criar esse que √© o √≠ndice.
 
-Õnice:
+√çnice:
  - Strogonoff
 
